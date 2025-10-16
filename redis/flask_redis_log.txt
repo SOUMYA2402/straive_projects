@@ -1,0 +1,15 @@
+2025-10-07 15:54:24,188 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-07 15:54:24,188 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-07 15:54:24,191 - INFO -  * Restarting with stat
+2025-10-07 15:54:26,950 - WARNING -  * Debugger is active!
+2025-10-07 15:54:26,954 - INFO -  * Debugger PIN: 821-772-853
+2025-10-07 15:54:39,476 - INFO - 127.0.0.1 - - [07/Oct/2025 15:54:39] "[33mGET /customers HTTP/1.1[0m" 404 -
+2025-10-07 15:54:39,554 - INFO - 127.0.0.1 - - [07/Oct/2025 15:54:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-07 15:54:45,564 - INFO - 127.0.0.1 - - [07/Oct/2025 15:54:45] "GET / HTTP/1.1" 200 -
+2025-10-07 15:54:56,875 - INFO - 127.0.0.1 - - [07/Oct/2025 15:54:56] "[33mGET /set HTTP/1.1[0m" 404 -
+2025-10-07 15:55:04,840 - INFO - 127.0.0.1 - - [07/Oct/2025 15:55:04] "GET / HTTP/1.1" 200 -
+2025-10-07 15:55:20,426 - INFO - Key set: name -> Soumya
+2025-10-07 15:55:20,426 - INFO - 127.0.0.1 - - [07/Oct/2025 15:55:20] "GET /set/name/Soumya HTTP/1.1" 200 -
+2025-10-07 15:55:39,404 - INFO - Key fetched: name -> Soumya
+2025-10-07 15:55:39,404 - INFO - 127.0.0.1 - - [07/Oct/2025 15:55:39] "GET /get/name HTTP/1.1" 200 -

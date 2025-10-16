@@ -1,0 +1,4 @@
+account_number,customer_name,account_type,balance,last_transaction,branch_code,phone_number
+1001,anita Sharma,Savings,15000.5,2025-09-15,S001,9876543210
+1002,Ravi kumar,Checking,8200.0,2025-10-01,S002,9876543211
+1003,meena joshi,Savings,,2025-08-20,S003,9876543212
